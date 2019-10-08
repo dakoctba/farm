@@ -1,6 +1,6 @@
 name: farm
 description: Farm is a framework that includes everything needed to create flutter API based applications according to the Model-View-Controller (MVC) pattern.
-version: 0.0.4
+version: 0.0.5
 author: Setbox Serviços Digitais <contato@setbox.com.br>
 homepage: https://github.com/flutter-farm/farm
 
