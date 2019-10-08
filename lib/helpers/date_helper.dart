@@ -33,7 +33,6 @@ class DateHelper {
   String formatDateToWeekDay(DateTime date) {
     var formatter = new DateFormat(DateFormat.WEEKDAY);
     String formatted = formatter.format(date);
-
     return formatted;
   }
 

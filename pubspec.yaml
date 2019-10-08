@@ -1,8 +1,8 @@
 name: farm
 description: Flutter Farm Framework
-version: 0.0.1
+version: 0.0.3
 author: Setbox Serviços Digitais <contato@setbox.com.br>
-homepage: https://setbox.com.br
+homepage: https://farm.dev
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
