@@ -44,4 +44,8 @@ class DateHelper {
     var parsedDate = DateTime.parse(date);
     return parsedDate;
   }
+
+  void printSomething(String something) {
+    print("Something -> $something");
+  }
 }

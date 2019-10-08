@@ -1,3 +1,3 @@
-## [0.0.5] - Some updates
+## [0.0.6] - Some updates
 
 * We updated some files
